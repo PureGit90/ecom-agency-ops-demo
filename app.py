@@ -20,9 +20,7 @@ st.set_page_config(
 # ── Styles ─────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-    .stMetric { background: #f8f9fa; border-radius: 10px; padding: 12px; }
     .block-container { padding-top: 1.5rem; }
-    div[data-testid="stHorizontalBlock"] > div { gap: 0.75rem; }
 </style>
 """, unsafe_allow_html=True)
 
